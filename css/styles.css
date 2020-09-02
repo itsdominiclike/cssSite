@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: verdana, sans-serif;
+    background-color: #887575;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 20%;
+    
+}
+
+#aboutMeP {
+    margin-bottom: 50px;
+    width: 30%;
+    margin: auto;
+}
+
+.topContainer{
+    background-color: #1e2022;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: white;
+}
+
+#tagLine {
+    font-family: 'Parisienne', cursive;
+    font-size: 2.5rem; 
+    color: white;
+    margin-top: 30px;
+    font-weight: normal;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+#codingImage {
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skillsImage {
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skillRow {
+    display: inline-block;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+
+.bottomContainer {
+    background-color: #1e2022;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #ffffff;
+}
+
+#bottomP {
+    margin-bottom: 0%;
+    color: #887575;
+    font-size: 12px;
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+	background-color:#f9f9f9;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #ffffff;
+    margin-bottom: 50px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+	background-color:#e9e9e9;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.bottomLinks {
+    margin: 5px auto 10px auto;
+    font-family: 'Times New Roman', Times, serif;
+}    
+
+a {
+    margin: auto 10px auto 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #887575;
+}
+        
